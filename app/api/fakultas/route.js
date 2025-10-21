@@ -1,4 +1,4 @@
-import { fakultas } from "@/lib/data";
+import { fakultas } from "@/constants/fakultas";
 import { NextResponse } from "next/server";
 
 export async function GET() {

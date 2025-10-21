@@ -1,7 +1,7 @@
-import { fakultasProdi } from "@/lib/data";
+import { fakultasProdi } from "@/constants/fakultasProdi";
 import { NextResponse } from "next/server";
 
-export async function GET(request: Request) {
+export async function GET(request) {
   try {
     const { searchParams } = new URL(request.url);
     const kode = searchParams.get("kode");

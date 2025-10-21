@@ -1,4 +1,4 @@
-import { prodi } from "@/lib/data";
+import { prodi } from "@/constants/prodi";
 import { NextResponse } from "next/server";
 
 export async function GET(request) {
