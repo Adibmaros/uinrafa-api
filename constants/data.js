@@ -1,15 +1,15 @@
 export const fakultas = [
-  {
-    id: 1,
-    kode: "FSH",
-    nama: "Syariah dan Hukum",
-    singkatan: "FSH",
-    prodi: [
-      { id: 1, kode: "HI", nama: "Hukum Islam", jenjangId: 2, fakultasId: 1 },
-      { id: 2, kode: "MUAMALAH", nama: "Muamalah", jenjangId: 2, fakultasId: 1 },
-      { id: 3, kode: "JINAYAH", nama: "Jinayah", jenjangId: 2, fakultasId: 1 },
-    ],
-  },
+  //   {
+  //     id: 1,
+  //     kode: "FSH",
+  //     nama: "Syariah dan Hukum",
+  //     singkatan: "FSH",
+  //     prodi: [
+  //       { id: 1, kode: "HI", nama: "Hukum Islam", jenjangId: 2, fakultasId: 1 },
+  //       { id: 2, kode: "MUAMALAH", nama: "Muamalah", jenjangId: 2, fakultasId: 1 },
+  //       { id: 3, kode: "JINAYAH", nama: "Jinayah", jenjangId: 2, fakultasId: 1 },
+  //     ],
+  //   },
   {
     id: 2,
     kode: "FITK",

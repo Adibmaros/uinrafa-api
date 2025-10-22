@@ -4,9 +4,9 @@ export const fakultasProdi = [
     kode: "FSH",
     singkatan: "FSH",
     prodi: [
-      { kode: "HI", nama: "Hukum Islam", jenjang: "S1" },
-      { kode: "MUAMALAH", nama: "Muamalah", jenjang: "S1" },
-      { kode: "JINAYAH", nama: "Jinayah", jenjang: "S1" },
+      //   { kode: "HI", nama: "Hukum Islam", jenjang: "S1" },
+      //   { kode: "MUAMALAH", nama: "Muamalah", jenjang: "S1" },
+      //   { kode: "JINAYAH", nama: "Jinayah", jenjang: "S1" },
     ],
   },
   {
