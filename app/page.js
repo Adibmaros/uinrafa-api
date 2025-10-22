@@ -118,7 +118,7 @@ const Page = () => {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-200 text-center text-gray-500 text-sm">
-          <p>© 2025 UIN Raden Fatah Palembang. All rights reserved.</p>
+          <p>© 2025 - Created with ❤️ by Adib Muhammad Maros</p>
         </div>
       </div>
     </div>
