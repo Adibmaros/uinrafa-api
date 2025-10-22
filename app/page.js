@@ -98,34 +98,6 @@ const Page = () => {
           </div>
         </section>
 
-        {/* Status Codes Section */}
-        <section>
-          <h2 className="text-3xl font-bold text-gray-900 mb-6 flex items-center gap-3">
-            <span className="w-1 h-8 bg-gradient-to-b from-blue-500 to-indigo-600 rounded-full"></span>
-            Status Codes
-          </h2>
-          <div className="grid md:grid-cols-3 gap-4">
-            <div className="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border-l-4 border-green-500">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl font-bold text-green-600">200</span>
-              </div>
-              <p className="text-gray-600">Sukses</p>
-            </div>
-            <div className="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border-l-4 border-yellow-500">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl font-bold text-yellow-600">404</span>
-              </div>
-              <p className="text-gray-600">Data tidak ditemukan</p>
-            </div>
-            <div className="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border-l-4 border-red-500">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl font-bold text-red-600">500</span>
-              </div>
-              <p className="text-gray-600">Server error</p>
-            </div>
-          </div>
-        </section>
-
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-200 text-center text-gray-500 text-sm">
           <p>© 2025 UIN Raden Fatah Palembang. All rights reserved.</p>
