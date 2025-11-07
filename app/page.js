@@ -118,7 +118,12 @@ const Page = () => {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-200 text-center text-gray-500 text-sm">
-          <p>© 2025 - Created with ❤️ by Adib Muhammad Maros</p>
+          <p>
+            © 2025 - Created with <span aria-hidden="true">❤️</span> by{" "}
+            <a href="https://www.instagram.com/adibmuhammadmaros" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-900 underline">
+              Adib Muhammad Maros
+            </a>
+          </p>
         </div>
       </div>
     </div>
