@@ -4,9 +4,11 @@ export const fakultasProdi = [
     kode: "FSH",
     singkatan: "FSH",
     prodi: [
-      //   { kode: "HI", nama: "Hukum Islam", jenjang: "S1" },
-      //   { kode: "MUAMALAH", nama: "Muamalah", jenjang: "S1" },
-      //   { kode: "JINAYAH", nama: "Jinayah", jenjang: "S1" },
+      { kode: "HKI", nama: "Hukum Keluarga Islam", jenjang: "S1" },
+      { kode: "PM", nama: "Perbandingan Mazhab", jenjang: "S1" },
+      { kode: "HPI", nama: "Hukum Pidana Islam", jenjang: "S1" },
+      { kode: "HES", nama: "Hukum Ekonomi Syariah", jenjang: "S1" },
+      { kode: "MHTN", nama: "Magister Hukum Tata Negara", jenjang: "S2" },
     ],
   },
   {

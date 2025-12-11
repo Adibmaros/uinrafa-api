@@ -1,8 +1,10 @@
 export const prodi = [
   // Syariah dan Hukum
-  //   { kode: "HI", nama: "Hukum Islam", jenjang: "S1", fakultas: "Syariah dan Hukum" },
-  //   { kode: "MUAMALAH", nama: "Muamalah", jenjang: "S1", fakultas: "Syariah dan Hukum" },
-  //   { kode: "JINAYAH", nama: "Jinayah", jenjang: "S1", fakultas: "Syariah dan Hukum" },
+  { kode: "HKI", nama: "Hukum Keluarga Islam", jenjang: "S1", fakultas: "Syariah dan Hukum" },
+  { kode: "PM", nama: "Perbandingan Mazhab", jenjang: "S1", fakultas: "Syariah dan Hukum" },
+  { kode: "HPI", nama: "Hukum Pidana Islam", jenjang: "S1", fakultas: "Syariah dan Hukum" },
+  { kode: "HES", nama: "Hukum Ekonomi Syariah", jenjang: "S1", fakultas: "Syariah dan Hukum" },
+  { kode: "MHTN", nama: "Magister Hukum Tata Negara", jenjang: "S2", fakultas: "Syariah dan Hukum" },
 
   // Ilmu Tarbiyah dan Keguruan
   { kode: "PAI", nama: "Pendidikan Agama Islam", jenjang: "S1", fakultas: "Ilmu Tarbiyah dan Keguruan" },
